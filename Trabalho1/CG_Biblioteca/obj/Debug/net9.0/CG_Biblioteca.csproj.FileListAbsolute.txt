@@ -1,0 +1,12 @@
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\bin\Debug\net9.0\CG_Biblioteca.deps.json
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\bin\Debug\net9.0\CG_Biblioteca.dll
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\bin\Debug\net9.0\CG_Biblioteca.pdb
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\obj\Debug\net9.0\CG_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\obj\Debug\net9.0\CG_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\obj\Debug\net9.0\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\obj\Debug\net9.0\CG_Biblioteca.AssemblyInfo.cs
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\obj\Debug\net9.0\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\obj\Debug\net9.0\CG_Biblioteca.dll
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\obj\Debug\net9.0\refint\CG_Biblioteca.dll
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\obj\Debug\net9.0\CG_Biblioteca.pdb
+C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\CG_Biblioteca\obj\Debug\net9.0\ref\CG_Biblioteca.dll
