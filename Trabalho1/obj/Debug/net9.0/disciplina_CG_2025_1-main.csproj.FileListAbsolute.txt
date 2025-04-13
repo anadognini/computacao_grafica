@@ -1,4 +1,0 @@
-C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\obj\Debug\net9.0\disciplina_CG_2025_1-main.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\obj\Debug\net9.0\disciplina_CG_2025_1-main.AssemblyInfoInputs.cache
-C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\obj\Debug\net9.0\disciplina_CG_2025_1-main.AssemblyInfo.cs
-C:\Users\anado\Downloads\disciplina_CG_2025_1-main\disciplina_CG_2025_1-main\obj\Debug\net9.0\disciplina_CG_2025_1-main.csproj.CoreCompileInputs.cache
